@@ -1,15 +1,14 @@
 # nodejs-playground
 NodeJS practices
 
-## Install a package
+## Generating the `package.json`
 - npm init
-generates a package.json file.
 
+## Install a package locally
 - npm install express
-installs express package locally
 
+## Installing a package globally
 - npm install -g express
-installs express package globally
 
+## Installing the dependencies in the `package.json`
 - npm install
-installs the dependencies in the package.json file.
